@@ -1,0 +1,1 @@
+# n-component-template
